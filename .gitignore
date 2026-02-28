@@ -1,0 +1,4 @@
+churnvenv/
+__pycache__/
+*.pkl
+*.h5
