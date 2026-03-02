@@ -1,4 +1,8 @@
-churnvenv/
+.ipynb_checkpoints/
 __pycache__/
-*.log
-logs/
+*.h5
+*.keras
+*.pkl
+venv/
+churnvenv/
+logs/.
