@@ -12,7 +12,7 @@ Customer churn directly impacts business revenue and growth. Acquiring new custo
 
 The objective of this project is to develop a deep learning model capable of predicting customer churn using historical customer data.
 
-###Project Objectives
+### Project Objectives
 Analyze customer behavior and account information.
 Perform data preprocessing and feature engineering.
 Build and train an Artificial Neural Network (ANN).
